@@ -6,6 +6,7 @@ vim.lsp.enable({
 	"lua_ls",
 	"gopls",
 	"bashls",
+	"ts_ls",
 })
 
 vim.diagnostic.config({
