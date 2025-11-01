@@ -7,6 +7,7 @@ vim.lsp.enable({
 	"gopls",
 	"bashls",
 	"ts_ls",
+	"clangd",
 })
 
 vim.diagnostic.config({
