@@ -99,7 +99,7 @@ vim.diagnostic.config({
 vim.lsp.enable({
 	"lua_ls",
 	"gopls",
-	"vstls",
+	"vtsls",
 	"clangd",
 	"vue_ls",
 	"emmet_language_server",
