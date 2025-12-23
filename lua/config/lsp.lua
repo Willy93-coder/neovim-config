@@ -77,6 +77,9 @@ vim.diagnostic.config({
 		source = true,
 		header = "",
 		prefix = "",
+		focusable = true,
+		max_width = 80,
+		max_height = 20,
 	},
 	signs = {
 		text = {
